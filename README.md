@@ -60,7 +60,8 @@ cd src/server
 python server.py
 ```
 <img width="848" alt="ảnh" src="https://github.com/user-attachments/assets/8f4f108b-9806-4a9b-b4aa-c1dc3382a189" />
-The server will run on port 5001 by default.
+
+- The server will run on port 5001 by default.
 
 2. In a new terminal, start the receiver:
 ```bash
